@@ -1,0 +1,3 @@
+C:/Users/jbd/CLionProjects/Api/CPPC/CMakeFiles/CPPC.dir
+C:/Users/jbd/CLionProjects/Api/CPPC/CMakeFiles/edit_cache.dir
+C:/Users/jbd/CLionProjects/Api/CPPC/CMakeFiles/rebuild_cache.dir

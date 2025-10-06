@@ -1,0 +1,8 @@
+// © 2025 Jeremia Sell. All rights reserved.
+//credits
+Programming: Jeremia Sell
+Sound Designer: Maximilian Fenn, Jeremia Sell
+Testers: Maximilian Fenn,
+Helpers: Maximilian Fenn
+No Helpers: Lelomator
+Thanks to: CHATGPT for extending Knowlewge
